@@ -1,7 +1,22 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Доклад о пет-проекте
+date: 2024-10-21
+inline: false
+related_posts: false
+---
+
+Мы выступили с докладом о пет-проекте [CheckDocAI](/projects/check_doc_ai/) на митапе [Moscow Python Meetup № 95](https://moscowpython.ru/meetup/95/). Рассказали об идее проекта и сложностях, с которыми столкнулись в процессе разработки.
+
+---
+
+## Видео на YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gafaM5zT9L8?si=l0KkFGuhtFV134su" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[comment]: layout: post
+title: Видео доклада на Moscow Python Meetup №95
+date: 2024-10-21 16:11:00-0400
 inline: false
 related_posts: false
 ---
